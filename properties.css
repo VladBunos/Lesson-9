@@ -1,0 +1,218 @@
+.prop-txtAC {
+  text-align: center;
+}
+
+.prop-PL {
+  padding-left: 6.1rem;
+}
+
+.prop-PR {
+  padding-right: 6.1rem;
+}
+
+.prop-PT {
+  padding-top: 4.125rem;
+}
+
+.prop-mainfont {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: #86878b;
+}
+
+.prop-h2font {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+  color: #333333;
+  margin-bottom: 1rem;
+}
+
+.prop-h1font {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 43px;
+  color: #212121;
+}
+
+.prop-bgIdea {
+  background-image: url(./Images/Idea.png);
+  background-position: center;
+}
+
+.prop-bgKB {
+  background-image: url(./Images/Keyboard.png);
+  background-position: center;
+}
+
+.prop-bgLTNG {
+  background-image: url(./Images/Lightning.png);
+  background-position: center;
+}
+
+
+@media (max-width: 2000px) {
+  .prop-PL {
+    padding-left: 12rem;
+  }
+  .prop-PR {
+    padding-right: 12rem;
+  }
+  .card2 {
+    grid-area: card2;
+    padding-left: 6rem;
+    padding-right: 6rem;
+  }
+}
+
+@media (max-width: 1568px) {
+  .prop-PL {
+    padding-left: 10rem;
+  }
+  .prop-PR {
+    padding-right: 10rem;
+  }
+  .card2 {
+    grid-area: card2;
+    padding-left: 5rem;
+    padding-right: 5rem;
+  }
+}
+
+@media (max-width: 1471px) {
+  .prop-PL {
+    padding-left: 9rem;
+  }
+  .prop-PR {
+    padding-right: 9rem;
+  }
+  .card2 {
+    grid-area: card2;
+    padding-left: 4.5rem;
+    padding-right: 4.5rem;
+  }
+}
+
+@media (max-width: 1424px) {
+  .prop-PL {
+    padding-left: 8rem;
+  }
+  .prop-PR {
+    padding-right: 8rem;
+  }
+  .card2 {
+    grid-area: card2;
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+}
+
+@media (max-width: 1375px) {
+  .prop-PL {
+    padding-left: 8rem;
+  }
+  .prop-PR {
+    padding-right: 8rem;
+  }
+  .card2 {
+    grid-area: card2;
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+}
+
+@media (max-width: 1169px) {
+  .prop-PL {
+    padding-left: 5rem;
+  }
+  .prop-PR {
+    padding-right: 5rem;
+  }
+  .card2 {
+    grid-area: card2;
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
+
+@media (max-width: 1110px) {
+  .prop-PL {
+    padding-left: 5rem;
+  }
+  .prop-PR {
+    padding-right: 5rem;
+  }
+  .card2 {
+    grid-area: card2;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+@media (max-width: 1062px) {
+  .prop-PL {
+    padding-left: 4rem;
+  }
+  .prop-PR {
+    padding-right: 4rem;
+  }
+  .card2 {
+    grid-area: card2;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+@media (max-width: 1025px) {
+  .prop-PL {
+    padding-left: 4rem;
+  }
+  .prop-PR {
+    padding-right: 4rem;
+  }
+  .card2 {
+    grid-area: card2;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+@media (max-width: 1014px) {
+  .prop-PL {
+    padding-left: 3rem;
+  }
+  .prop-PR {
+    padding-right: 3rem;
+  }
+  .card2 {
+    grid-area: card2;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+@media (max-width: 966px) {
+  .prop-PL {
+    padding-left: 2rem;
+  }
+  .prop-PR {
+    padding-right: 2rem;
+  }
+  .card2 {
+    grid-area: card2;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+.anime:hover{
+    height: 500px;
+    width: 500px;
+}
